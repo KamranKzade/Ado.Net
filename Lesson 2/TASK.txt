@@ -1,0 +1,6 @@
+Task
+ Store
+    Update Select Delete
+    
+Qiymeti 100 yuxari olanlar
+ve ashagi olanlar
