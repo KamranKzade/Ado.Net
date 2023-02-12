@@ -1,0 +1,21 @@
+App daxil oldugunuz zaman
+sizden Teacher or Student or Lib
+
+secim edenden sonra adlari ve id leri sorusulur 
+
+Teacher or Student
+
+eger duzduse Kitablarin siyahisi achilir
+siz sechdiniz kitabdan 1 eded ala bilirsiniz
+kitabi sechdikden sonram orda sizden dateIn vaxtini sorushacaq mes bugun 04.02.2023
+men dateIn olaraq 08.02.2023   olan 4 gun ferqi
+kitabin qiymetine vurulur ve odenish hesablablansin
+
+ve ilkin sechimden asili olaraq scard ve ya t card cedveline elave olun.
+
+
+Lib  
+kitablara baxa biler, elave ede biler ve sile biler kitablari.
+
+Telebelerin goturduklerine baxa biler, Muellimlerin goturduklerine baxa biler
+
